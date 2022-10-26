@@ -1,25 +1,12 @@
-### :octocat:  Welcome to my GitHub portfolio :octocat:
-### My name is Iley Alvarez Funcke and I'm currently studying Information Technology at KTH.
-### I have soon completed two out of the five years I will study at KTH. 
-### Something I enjoy doing is playing games and always developing myself by learning new things.
-### Besides this I also enjoy programming and here on GitHub you can find most of my programs.
-### Here are some of the courses and projects I've worked on:  
-### Programmering I KTH, Language: Java: [Programmering 1 - ID1018](https://github.com/MercuriaL01/Programmering-1---ID1018) 
-### Algoritmer och datastrukturer KTH, Languages: Java and some C: [Algoritmer och datastrukturer - ID1021](https://github.com/MercuriaL01/Algoritmer-och-datastrukturer---ID1021) 
-### Datalagring KTH, Languages: PostgreSQL and some Java: [Datalagring - IV1351](https://github.com/MercuriaL01/Datalagring---IV1351) 
-### Dota-Helper NTI (one program not a whole course), Language: C#: [Dota-Helper](https://github.com/MercuriaL01/Dota-Helper)
-### Datorteknik KTH, Languages: C and some Assembly: [Datorteknik - IS1200](https://github.com/MercuriaL01/Datorteknik---IS1200) 
-<!--
-**MercuriaL01/MercuriaL01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center"><samp>Hello! I am Iley Alvarez Funcke</samp></h3>
+<p align="center"><br>
+  <samp>
+    「 Engineering in Computer Science Student @ :hatching_chick: <b>Kungliga Tekniska Universitetet</b> 」<br>
+  </samp>
+<br>
+<samp>
+  <p align="center">
+    ════ ⋆★⋆ ════<br>
+    From <a href="https://github.com/MercuriaL01">MercuriaL01</a>
+  </p>
+</samp>
