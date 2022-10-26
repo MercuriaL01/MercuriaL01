@@ -1,7 +1,7 @@
 <h3 align="center"><samp>Hello! I am Iley Alvarez Funcke</samp></h3>
 <p align="center"><br>
   <samp>
-    「 Engineering in Computer Science Student @ :hatching_chick: <b>Kungliga Tekniska Universitetet</b> 」<br>
+    「 Engineering in Computer Science Student @ :hatching_chick: <b>Kungliga Tekniska Högskolan</b> 」<br>
   </samp>
 <br>
 <samp>
