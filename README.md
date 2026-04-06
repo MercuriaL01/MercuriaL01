@@ -1,7 +1,7 @@
 <h3 align="center"><samp>Hello! I am Iley Alvarez Funcke</samp></h3>
 <p align="center"><br>
   <samp>
-    「 Engineering in Computer Science Student @ :hatching_chick: <b>Kungliga Tekniska Högskolan</b> 」<br>
+    「 PhD Student in Precision Robotics & Master in Computer Science @ :hatching_chick: <b>Kungliga Tekniska Högskolan</b> 」<br>
   </samp>
 <br>
 <samp>
